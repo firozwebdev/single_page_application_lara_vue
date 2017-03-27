@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Address</th>
+    </tr>
+    <tr>
+        <td>Rahim</td>
+        <td>smskushtia@gmail.com</td>
+        <td>Kushtia</td>
+    </tr>
+    <tr>
+        <td>Karim</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+    <tr>
+        <td>Sagor</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+    <tr>
+        <td>Srabony</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+    <tr>
+        <td>Lata</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+    <tr>
+        <td>Prova</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+    <tr>
+        <td>Arnob</td>
+        <td>firoz@gmail.com</td>
+        <td>Faridpur</td>
+    </tr>
+</table>
+</body>
+</html>
